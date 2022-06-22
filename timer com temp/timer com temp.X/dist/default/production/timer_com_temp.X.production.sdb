@@ -1,0 +1,36 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"8 C:\Users\riant\Desktop\timer com temp\timer com temp.X\main.c
+[v _main main `(i  1 e 2 0 ]
+"216 C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f877a.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"641
+[v _TMR1L TMR1L `VEuc  1 e 1 @14 ]
+"648
+[v _TMR1H TMR1H `VEuc  1 e 1 @15 ]
+"655
+[v _T1CON T1CON `VEuc  1 e 1 @16 ]
+"1375
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"2087
+[v _CMCON CMCON `VEuc  1 e 1 @156 ]
+"2674
+[v _RB0 RB0 `VEb  1 e 0 @48 ]
+"6 C:\Users\riant\Desktop\timer com temp\timer com temp.X\main.c
+[v _pulse pulse `ui  1 e 2 0 ]
+"8
+[v _main main `(i  1 e 2 0 ]
+{
+"39
+} 0

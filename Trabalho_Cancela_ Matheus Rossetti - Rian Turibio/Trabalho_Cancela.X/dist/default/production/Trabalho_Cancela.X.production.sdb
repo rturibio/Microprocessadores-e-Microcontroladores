@@ -1,0 +1,128 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"21 C:\Users\riant\Desktop\Faculdade\micro\Trabalho_Cancela_ Matheus Rossetti - Rian Turibio\Trabalho_Cancela.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"63
+[v _cancelaDesce cancelaDesce `(v  1 e 1 0 ]
+[v i1_cancelaDesce cancelaDesce `(v  1 e 1 0 ]
+"74
+[v _cancelaSobe cancelaSobe `(v  1 e 1 0 ]
+"85
+[v _TrataInt TrataInt `II(v  1 e 1 0 ]
+[s S147 . 1 `uc 1 RB0 1 0 :1:0 
+`uc 1 RB1 1 0 :1:1 
+`uc 1 RB2 1 0 :1:2 
+`uc 1 RB3 1 0 :1:3 
+`uc 1 RB4 1 0 :1:4 
+`uc 1 RB5 1 0 :1:5 
+`uc 1 RB6 1 0 :1:6 
+`uc 1 RB7 1 0 :1:7 
+]
+"233 C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f877a.h
+[u S156 . 1 `S147 1 . 1 0 ]
+[v _PORTBbits PORTBbits `VES156  1 e 1 @6 ]
+[s S122 . 1 `uc 1 RD0 1 0 :1:0 
+`uc 1 RD1 1 0 :1:1 
+`uc 1 RD2 1 0 :1:2 
+`uc 1 RD3 1 0 :1:3 
+`uc 1 RD4 1 0 :1:4 
+`uc 1 RD5 1 0 :1:5 
+`uc 1 RD6 1 0 :1:6 
+`uc 1 RD7 1 0 :1:7 
+]
+"357
+[u S131 . 1 `S122 1 . 1 0 ]
+[v _PORTDbits PORTDbits `VES131  1 e 1 @8 ]
+[s S90 . 1 `uc 1 RBIF 1 0 :1:0 
+`uc 1 INTF 1 0 :1:1 
+`uc 1 TMR0IF 1 0 :1:2 
+`uc 1 RBIE 1 0 :1:3 
+`uc 1 INTE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+"477
+[s S99 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 T0IF 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 T0IE 1 0 :1:5 
+]
+[u S104 . 1 `S90 1 . 1 0 `S99 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES104  1 e 1 @11 ]
+[s S64 . 1 `uc 1 PS 1 0 :3:0 
+`uc 1 PSA 1 0 :1:3 
+`uc 1 T0SE 1 0 :1:4 
+`uc 1 T0CS 1 0 :1:5 
+`uc 1 INTEDG 1 0 :1:6 
+`uc 1 nRBPU 1 0 :1:7 
+]
+"1275
+[s S71 . 1 `uc 1 PS0 1 0 :1:0 
+`uc 1 PS1 1 0 :1:1 
+`uc 1 PS2 1 0 :1:2 
+]
+[u S75 . 1 `S64 1 . 1 0 `S71 1 . 1 0 ]
+[v _OPTION_REGbits OPTION_REGbits `VES75  1 e 1 @129 ]
+[s S22 . 1 `uc 1 TRISB0 1 0 :1:0 
+`uc 1 TRISB1 1 0 :1:1 
+`uc 1 TRISB2 1 0 :1:2 
+`uc 1 TRISB3 1 0 :1:3 
+`uc 1 TRISB4 1 0 :1:4 
+`uc 1 TRISB5 1 0 :1:5 
+`uc 1 TRISB6 1 0 :1:6 
+`uc 1 TRISB7 1 0 :1:7 
+]
+"1392
+[u S31 . 1 `S22 1 . 1 0 ]
+[v _TRISBbits TRISBbits `VES31  1 e 1 @134 ]
+[s S43 . 1 `uc 1 TRISD0 1 0 :1:0 
+`uc 1 TRISD1 1 0 :1:1 
+`uc 1 TRISD2 1 0 :1:2 
+`uc 1 TRISD3 1 0 :1:3 
+`uc 1 TRISD4 1 0 :1:4 
+`uc 1 TRISD5 1 0 :1:5 
+`uc 1 TRISD6 1 0 :1:6 
+`uc 1 TRISD7 1 0 :1:7 
+]
+"1516
+[u S52 . 1 `S43 1 . 1 0 ]
+[v _TRISDbits TRISDbits `VES52  1 e 1 @136 ]
+"2605
+[v _INTF INTF `VEb  1 e 0 @89 ]
+"21 C:\Users\riant\Desktop\Faculdade\micro\Trabalho_Cancela_ Matheus Rossetti - Rian Turibio\Trabalho_Cancela.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"61
+} 0
+"74
+[v _cancelaSobe cancelaSobe `(v  1 e 1 0 ]
+{
+"83
+} 0
+"63
+[v _cancelaDesce cancelaDesce `(v  1 e 1 0 ]
+{
+"72
+} 0
+"85
+[v _TrataInt TrataInt `II(v  1 e 1 0 ]
+{
+"105
+} 0
+"63
+[v i1_cancelaDesce cancelaDesce `(v  1 e 1 0 ]
+{
+"72
+} 0

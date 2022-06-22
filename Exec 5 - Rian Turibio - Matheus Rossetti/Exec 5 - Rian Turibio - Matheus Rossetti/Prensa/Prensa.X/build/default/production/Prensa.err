@@ -1,0 +1,41 @@
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 49 : Found label after column 1. (ligaled)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 57 : Found label after column 1. (E1)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 72 : Found label after column 1. (E2)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 90 : Found label after column 1. (E3)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 106 : Found label after column 1. (E4)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 121 : Found label after column 1. (E5)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 137 : Found label after column 1. (E6)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 153 : Found label after column 1. (E7)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 169 : Found label after column 1. (E8)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 185 : Found label after column 1. (E9)
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 213 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 218 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 220 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 222 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 225 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 236 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 239 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 245 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 248 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 283 : Found label after column 1. (up)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 287 : Found label after column 1. (down)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 291 : Found label after column 1. (enter)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 299 : Found label after column 1. (um)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 317 : Found label after column 1. (dois)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 334 : Found label after column 1. (tres)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 350 : Found label after column 1. (quatro)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 366 : Found label after column 1. (cinco)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 382 : Found label after column 1. (seis)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 398 : Found label after column 1. (sete)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 415 : Found label after column 1. (oito)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 431 : Found label after column 1. (nove)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 447 : Found label after column 1. (zero)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 459 : Found label after column 1. (cum)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 476 : Found label after column 1. (cdois)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 492 : Found label after column 1. (ctres)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 508 : Found label after column 1. (cquatro)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 524 : Found label after column 1. (ccinco)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 540 : Found label after column 1. (cseis)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 556 : Found label after column 1. (csete)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 572 : Found label after column 1. (coito)
+Warning[207] C:\USERS\RIANT\DESKTOP\PRENSA\PRENSA.X\PRENSA.ASM 588 : Found label after column 1. (cnove)
